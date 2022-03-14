@@ -1,0 +1,103 @@
+/*regla1*/
+
+* {
+    font-family: 'League Spartan', sans-serif;
+}
+
+
+/*regla2*/
+
+body {
+    margin: 0;
+    padding: 0% 20%;
+}
+
+
+/*regla3*/
+
+h1 {
+    text-decoration: underline darkcyan;
+    text-align: center;
+}
+
+
+/*regla4*/
+
+.selector {
+    color: lightcyan;
+}
+
+
+/*regla5*/
+
+.selectors {
+    padding: 5%;
+    border: solid darkcyan 1px;
+    border-radius: 5px;
+}
+
+
+/*regla6*/
+
+#universal {
+    color: lightgoldenrodyellow;
+}
+
+
+/*regla7*/
+
+h2.selector {
+    background-color: darkcyan;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+
+/*regla7*/
+
+h2#universal {
+    background-color: darkcyan;
+    padding: 1%;
+    border-radius: 5px;
+}
+
+
+/*regla8*/
+
+span {
+    font-weight: 900;
+    background-color: black;
+    color: white;
+}
+
+
+/*regla9*/
+
+li a {
+    text-decoration: none;
+}
+
+
+/*regla10*/
+
+h3 {
+    background-color: rgba(0, 139, 139, 0.529);
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+
+/*regla11*/
+
+#gallery div {
+    width: 100%;
+}
+
+
+/*regla12*/
+
+img {
+    width: 100%;
+    border: solid darkcyan 1px;
+    border-radius: 5px;
+}
